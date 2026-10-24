@@ -11,7 +11,8 @@
 ## ÍNDICE
 
 0. Configura tu taller: Python + VS Code + Jupyter en tu computadora
-1. Repaso exprés: variables, `input()`, `float()` y f-strings
+1. Repaso exprés: variables, `
+input()`, `float()` y f-strings
 2. Tema 5: Decisiones (`if`, `elif`, `else`, `and`, `or`, `not`)
 3. Tema 6: Ciclo `while` (contadores, acumuladores, `break` y `continue`)
 4. Tema 7: Detective de bugs
