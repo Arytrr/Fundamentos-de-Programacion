@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "Semana4",
+			"path": ".."
+		},
+		{
+			"name": "Semana3",
+			"path": "../../Semana3"
+		},
+		{
+			"name": "Semana2",
+			"path": "../../Semana2"
+		},
+		{
+			"name": "Semana1",
+			"path": "../../Semana1"
+		},
+		{
+			"name": "Extra",
+			"path": "../../Extra"
+		}
+	]
+}
